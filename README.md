@@ -3,10 +3,11 @@
 🎓 I'm a Computer Science student passionate about coding, problem-solving, and building real-world software.
 
 💻 I’m currently focused on:
-- **Java** – My main backend programming language  
-- **Web Development** – Exploring HTML, CSS, JavaScript, React  
+- **Java** – My main backend programming language
 - **Python** – For scripting, automation & data handling
 - **DSA** - For problem solving
+- **Web Development** – Exploring HTML, CSS, JavaScript, React  
+- **Spring Framework & Spring Boot** – For building robust RESTful APIs  
 
 ---
 
