@@ -50,6 +50,9 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_border=true)
+
+
 ---
 
 ## 🌐 Let's Connect
