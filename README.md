@@ -50,7 +50,7 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
 
 ---
@@ -58,3 +58,48 @@ Features include REST APIs, service-layer design, and real-time data operations.
 ## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Skakarla2023)
+
+
+---
+
+### 📚 Currently Learning
+
+- 🧠 Advanced Data Structures and Algorithms
+- ⚙️ Microservices and RESTful APIs
+- 🌐 Frontend integration using React
+---
+
+### 🤝 Open for Collaboration On
+
+- 🚀 Java + Spring Boot backend projects
+- 📊 DSA/Problem Solving challenges
+- 🌱 Beginner-friendly open-source contributions
+- 📂 API integrations or small web tools
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [skakarla2023@gmail.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [linkedin.com/in/skakarla2023](https://www.linkedin.com/in/skakarla2023)
+
+---
+
+### 💡 Fun Facts
+
+- 😄 I drink more code than coffee
+- 🧩 I enjoy breaking down big problems into small patterns
+- 🎮 I sometimes code while listening to video game soundtracks
+- 📌 I never stop refining old projects
+
+---
+
+### 🎯 Goals for 2025
+
+- ✅ Solve 300+ DSA problems on LeetCode & HackerRank
+- 🔗 Contribute to 5+ open-source repositories
+- 🌟 Build and deploy a full-stack portfolio project
+- 💼 Land an internship or role at a top tech company like **Google**
+
+---
+
