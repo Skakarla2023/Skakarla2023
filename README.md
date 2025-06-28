@@ -46,6 +46,9 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ![Satwika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_progress=false&count_private=true)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&langs_count=8&cache_seconds=0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skakarla2023&theme=dark&cache_seconds=0)
