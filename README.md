@@ -48,7 +48,7 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_progress=false&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skakarla2023&theme=dark&cache_seconds=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
