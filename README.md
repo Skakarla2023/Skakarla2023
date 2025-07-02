@@ -55,6 +55,14 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ---
 
+
+## 🧮 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/learner_sk?theme=light&font=baloo)](https://leetcode.com/learner_sk/)
+
+
+---
+
 ## 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Skakarla2023)
@@ -82,7 +90,6 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 - 📧 Email: [skakarla2023@gmail.com](mailto:your.email@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/skakarla2023](https://www.linkedin.com/in/skakarla2023)
-
 ---
 
 ### 💡 Fun Facts
