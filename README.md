@@ -44,11 +44,11 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ## 📈 GitHub Stats
 
-![Satwika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=tokyonight&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_progress=false&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Skakarla2023&count_private=true&theme=dark)](https://github.com/Skakarla2023)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
