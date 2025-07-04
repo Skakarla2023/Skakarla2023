@@ -50,6 +50,8 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
 
