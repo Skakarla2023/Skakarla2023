@@ -19,6 +19,15 @@ Features include REST APIs, service-layer design, and real-time data operations.
 
 ---
 
+## 🌐 Frontend Project
+
+🔗 [EMS_project-Frontend](https://github.com/Skakarla2023/EMS_project_Frontend.git)
+
+A user-friendly interface built using **React.js** for managing employee records.
+Features include interactive UI components, form validations, and API integration with the backend for real-time data updates.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
