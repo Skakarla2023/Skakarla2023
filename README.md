@@ -62,6 +62,11 @@ Features include interactive UI components, form validations, and API integratio
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
 
+## 🧮 DSA Progress
+
+![DSA Progress](https://progress-bar.dev/25/?title=Completed&width=300)
+
+
 ---
 
 
