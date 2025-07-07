@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_progress=false&count_private=true)    
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=false)](https://git.io/streak-stats)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=tokyonight&hide_border=false)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=false)](https://git.io/streak-stats)    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=github_dark&hide_border=false)  
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
