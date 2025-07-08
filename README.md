@@ -65,14 +65,6 @@ Features include interactive UI components, form validations, and API integratio
 
 
 
-## 🧮 DSA Progress
-
-![DSA Progress](https://progress-bar.dev/25/?title=Completed&width=300)
-
-
----
-
-
 ## 🧮 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/learner_sk?theme=light&font=baloo)](https://leetcode.com/learner_sk/)
