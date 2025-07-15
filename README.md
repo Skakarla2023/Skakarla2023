@@ -13,11 +13,17 @@
 
 ## 📈 GitHub Stats
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&hide_progress=false&count_private=true)    
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=false)](https://git.io/streak-stats)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=github_dark&hide_border=false)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skakarla2023&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=github_dark&hide_border=false" width="48%" />
+</p>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
+
+
 
 ---
 
