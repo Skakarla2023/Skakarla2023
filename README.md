@@ -43,7 +43,7 @@ Features include interactive UI components, form validations, and API integratio
 
 ---
 
-![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)
+[![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)](https://github.com/Skakarla2023/PacManGame)
 
 
 ## 🛠️ Technologies & Tools
