@@ -2,6 +2,14 @@
 
 🎓 I'm a Computer Science student passionate about coding, problem-solving, and building real-world software.
 
+## 💻 My Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 💻 I’m currently focused on:
 - **Java** – My main backend programming language
 - **Python** – For scripting, automation & data handling
