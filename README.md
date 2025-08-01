@@ -2,6 +2,13 @@
 
 🎓 I'm a Computer Science student passionate about coding, problem-solving, and building real-world software.
 
+💻 I’m currently focused on:
+- **Java** – My main backend programming language
+- **Python** – For scripting, automation & data handling
+- **DSA** - For problem solving
+- **Web Development** – Exploring HTML, CSS, JavaScript, React  
+- **Spring Framework & Spring Boot** – For building robust RESTful APIs  
+
 ## 💻 My Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -10,12 +17,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-💻 I’m currently focused on:
-- **Java** – My main backend programming language
-- **Python** – For scripting, automation & data handling
-- **DSA** - For problem solving
-- **Web Development** – Exploring HTML, CSS, JavaScript, React  
-- **Spring Framework & Spring Boot** – For building robust RESTful APIs  
 
 ---
 
