@@ -18,6 +18,13 @@
 
 
 
+<img src="https://img.shields.io/badge/JAVA-orange?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-20232A?logo=react&logoColor=61DAFB" />
+
+
 ---
 
 ## 📈 GitHub Stats
