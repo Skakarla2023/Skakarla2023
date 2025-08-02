@@ -6,7 +6,7 @@
 - **Java** – My main backend programming language
 - **Python** – For scripting, automation & data handling
 - **DSA** - For problem solving
-- **Web Development** – Exploring HTML, CSS, JavaScript, React  
+- **Web Development** – Exploring HTML, CSS, JavaScript, TypeScript, React  
 - **Spring Framework & Spring Boot** – For building robust RESTful APIs  
 
 ## 💻 My Languages
