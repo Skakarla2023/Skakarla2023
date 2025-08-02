@@ -17,10 +17,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-
-
-
 ---
 
 ## 📈 GitHub Stats
@@ -55,9 +51,6 @@ Features include interactive UI components, form validations, and API integratio
 
 ---
 
-[![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)](https://github.com/Skakarla2023/PacManGame)
-
-
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -69,6 +62,10 @@ Features include interactive UI components, form validations, and API integratio
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+[![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)](https://github.com/Skakarla2023/PacManGame)
 
 ---
 
