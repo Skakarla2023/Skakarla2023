@@ -45,15 +45,22 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
 ### Java Backend Project
 🔗 [SpringBoot_Project](https://github.com/Skakarla2023/SpringBoot_Project.git)  
 A backend CRUD application built with **Java & Spring Boot**.  
-Features include REST APIs, service-layer design, and real-time data operations.
+**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+**Features:** REST APIs, service-layer design, real-time data operations  
+
 
 ### Frontend Project
 🔗 [EMS_project-Frontend](https://github.com/Skakarla2023/EMS_project_Frontend.git)  
 A user-friendly interface built using **React.js** for managing employee records.  
-Features include interactive UI components, form validations, and API integration with the backend for real-time updates.
+**Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+**Features:** Interactive UI components, form validations, API integration with backend for real-time updates  
+
 
 ### Fun / Mini Project
-[![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)](https://github.com/Skakarla2023/PacManGame)
+[![PacMan Game](https://img.shields.io/badge/Project-PacMan_Game-yellow?style=for-the-badge&logo=github)](https://github.com/Skakarla2023/PacManGame)  
+A mini game project built for fun and learning **Java Swing GUI**.  
+**Tech Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+
 
 ---
 
