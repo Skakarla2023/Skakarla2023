@@ -36,12 +36,6 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
   <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=github_dark&hide_border=false" width="48%" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Skakarla2023&theme=dark&date_format=M%20j%5B,%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=86400" width="48%" />
-</div>
-
-
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
