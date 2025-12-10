@@ -31,12 +31,15 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&count_private=true&cache_seconds=3600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&count_private=true)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=github_dark&hide_border=false&cache_seconds=3600" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=dark" width="48%" />
 </p>
+
+
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
