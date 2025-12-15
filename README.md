@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Satwika Kakarla
+=# 👋 Hi, I'm Satwika Kakarla
 
 CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring Full-Stack Engineer  
 
@@ -51,7 +51,7 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
 
 A complete Employee Management System built with **Spring Boot + MySQL (Backend)** and **React.js (Frontend)**.  
 
-🔗 [Backend Repo](your-backend-repo-link) | [Frontend Repo](your-frontend-repo-link)  
+🔗 [Backend Repo](https://github.com/Skakarla2023/ems-backend) | [Frontend Repo](https://github.com/Skakarla2023/ems-frontend)  
 
 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
