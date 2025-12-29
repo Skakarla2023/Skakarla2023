@@ -1,4 +1,4 @@
-=# 👋 Hi, I'm Satwika Kakarla
+# 👋 Hi, I'm Satwika Kakarla
 
 CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring Full-Stack Engineer  
 
