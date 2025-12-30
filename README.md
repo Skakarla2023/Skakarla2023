@@ -2,7 +2,7 @@
 
 CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring Full-Stack Engineer  
 
-🎓 I'm a Computer Science student passionate about coding, problem-solving, and building real-world software.  
+🎓 I'm a Computer Science student 2027 passout passionate about coding, problem-solving, and building real-world software.  
 
 
 💻 Currently focused on:
