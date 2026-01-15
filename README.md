@@ -102,7 +102,7 @@ A complete Employee Management System built with **Spring Boot + MySQL (Backend)
 ## 🌐 Connect with Me
 
 - 📧 Email: [skakarla2023@gmail.com](mailto:satwikakakarla83@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/skakarla2023](https://www.linkedin.com/in/satwika-kakarla-964431371)  
+- 🔗 LinkedIn: [linkedin.com/in/satwika-kakarla-964431371](https://www.linkedin.com/in/satwika-kakarla-964431371)  
 - 🔗 GitHub: [github.com/Skakarla2023](https://github.com/Skakarla2023)
   
 ---
