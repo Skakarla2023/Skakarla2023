@@ -41,6 +41,9 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&theme=tokyo-night&area=true&hide_border=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=radical)
+
+
 ---
 
 
