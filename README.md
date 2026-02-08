@@ -101,7 +101,7 @@ A complete Employee Management System built with **Spring Boot + MySQL (Backend)
 
 ## 🌐 Connect with Me
 
-- 📧 Email: [skakarla2023@gmail.com](mailto:satwikakakarla83@gmail.com)  
+- 📧 Email: [satwikakakarla83@gmail.com](mailto:satwikakakarla83@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/satwika-kakarla-964431371](https://www.linkedin.com/in/satwika-kakarla-964431371)  
 - 🔗 GitHub: [github.com/Skakarla2023](https://github.com/Skakarla2023)
   
@@ -116,7 +116,7 @@ A complete Employee Management System built with **Spring Boot + MySQL (Backend)
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
 - ✅ Solve 300+ DSA problems on LeetCode & HackerRank  
 - 🔗 Contribute to 5+ open-source repositories  
