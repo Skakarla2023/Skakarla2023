@@ -33,9 +33,11 @@ CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skakarla2023&layout=compact&theme=dark&count_private=true)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&count_private=true&show_icons=true&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Skakarla2023&theme=dark&hide_border=true&cache_seconds=1800" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Skakarla2023&show_icons=true&theme=dark&count_private=true" width="48%" />
 </p>
+
 
 ![Filled Graph](https://github-readme-activity-graph.vercel.app/graph?username=Skakarla2023&bg_color=0d1117&color=c084fc&line=c084fc&point=c084fc&area=true)
 
