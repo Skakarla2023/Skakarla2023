@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Satwika Kakarla
-
+  
 CSE Student | Java & Spring Boot Backend Developer | React Enthusiast | Aspiring Full-Stack Engineer  
 
 🎓 I am a Computer Science student, graduating in 2027, with a strong passion for coding, problem-solving, and building real-world software.
