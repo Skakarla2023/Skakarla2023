@@ -1,9 +1,8 @@
 
 # Hey there! I'm Satwika Kakarla 👋
 
-### CSE Student | Java & Spring Boot Dev | Aspiring AI Backend Engineer | Always Building 🚀
+#### CSE Student | Java & Spring Boot Dev | Aspiring AI Backend Engineer | Always Building 🚀
 
----
 
 I'm a Computer Science student (graduating 2027) with a strong passion for backend development  
 and a clear goal — to become an **AI Backend Engineer**.
