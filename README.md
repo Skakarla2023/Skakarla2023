@@ -120,7 +120,7 @@ Goal: build something that combines what I know (backend + APIs) with what I'm l
 ## 🌐 Let's Connect!
 
 - 📧 Email: [satwikakakarla83@gmail.com](mailto:satwikakakarla83@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/satwika-kakarla-964431371](https://www.linkedin.com/in/satwika-kakarla-964431371)  
+- 🔗 LinkedIn: [linkedin.com/in/satwika-kakarla](https://www.linkedin.com/in/satwika-kakarla)  
 - 💻 GitHub: [github.com/Skakarla2023](https://github.com/Skakarla2023)
 
 ---
