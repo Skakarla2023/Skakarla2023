@@ -1,4 +1,4 @@
-        
+       
 # Hey there! I'm Satwika Kakarla 👋  
           
 #### CSE Student | Java & Spring Boot Dev | Aspiring AI Backend Engineer | Always Building 🚀
@@ -91,11 +91,21 @@ Goal: build something that combines what I know (backend + APIs) with what I'm l
 
 ## 🧮 LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/learner_sk?theme=light&font=baloo)](https://leetcode.com/learner_sk/)
-
-<img src="https://github.com/Skakarla2023/Skakarla2023/blob/main/achievement1.png" width="130" />
-
-<img src="https://github.com/Skakarla2023/Skakarla2023/blob/main/leetcode🦢.png" width="130" />
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/learner_sk/">
+        <img src="https://leetcard.jacoblin.cool/learner_sk?theme=light&font=baloo" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/Skakarla2023/Skakarla2023/blob/main/achievement1.png" width="130" />
+    </td>
+    <td>
+      <img src="https://github.com/Skakarla2023/Skakarla2023/blob/main/leetcode🦢.png" width="130" />
+    </td>
+  </tr>
+</table>
 
 ---
 
