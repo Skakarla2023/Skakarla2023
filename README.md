@@ -145,6 +145,6 @@ Goal: build something that combines what I know (backend + APIs) with what I'm l
 - 📌 I keep going back to old projects to make them better  
 - 🤖 I genuinely believe AI + good backend engineering is the future — and I want to be part of building it
 
----
+--- 
 
 *Still learning. Always building. Getting there one commit at a time.* 🛠️
