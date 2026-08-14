@@ -8,7 +8,7 @@ I'm a Computer Science student (graduating 2027) with a strong passion for backe
 and a clear goal — to become an **AI Backend Engineer**.  
     
 I started my journey with Java and Spring Boot, building RESTful APIs and full-stack applications.     
-Now I'm expanding into the world of AI-powered systems — exploring LLMs, intelligent APIs,  
+Now I'm expanding into the world of AI-powered systems — exploring LLMs, intelligent APIs,   
 and how modern backends are being shaped by machine learning. 
         
 Every project I build, every problem I solve, is a step toward that goal. 🎯
