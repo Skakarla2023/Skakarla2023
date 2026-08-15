@@ -14,7 +14,7 @@ and how modern backends are being shaped by machine learning.
 Every project I build, every problem I solve, is a step toward that goal. 🎯
 ---
 
-## 🧰 What I Work With
+## 🧰 What I Work With 
 
 > *The stack is always growing...*
 
